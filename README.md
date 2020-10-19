@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm wanger.
 
-<!--
-**WangYuLue/Wangyulue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+- 🇨🇳 I’m live in ShangHai China
+- 😎 I'm coding Ecode [ecode](https://github.com/WangYuLue/ecode)
+- 👉 [Here](https://wangyulue.com/) is my personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Tech Stack
+
+- 💻 JavaScript | Node |Java | Python | Golang
+- 🛢 MySQL | Redis | Elasticsearch
+- 🔧 VSCode | Eclipse | Git | Vim 
+- 🚀 Docker | K8s
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wangyulue&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE" alt="wanger's Github Stats">
+
+![](https://visitor-badge.glitch.me/badge?page_id=WangYuLue.WangYuLue)
