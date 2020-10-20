@@ -5,21 +5,16 @@
 
 #### About Me
 
-- 🇨🇳 I’m live in ShangHai China
-- 😎 I'm coding Ecode [ecode](https://github.com/WangYuLue/ecode)
-- 👉 [Here](https://wangyulue.com/) is my personal website
+- 🇨🇳 &nbsp; I’m live in ShangHai China
+- 😎 &nbsp; I'm coding Ecode [ecode](https://github.com/WangYuLue/ecode)
+- 👉 &nbsp; [Here](https://wangyulue.com/) is my personal website
 
 
 #### Tech Stack
 
-- 💻 JavaScript | Node |Java | Python | Golang
-- 🛢 MySQL | Redis | Elasticsearch
-- 🔧 VSCode | Eclipse | Git | Vim 
-- 🚀 Docker | K8s
-
-
-
-
-
+- 💻 &nbsp; JavaScript | Node |Java | Python | Golang
+- 🛢 &nbsp; MySQL | Redis | Elasticsearch
+- 🔧 &nbsp; VSCode | Eclipse | Git | Vim 
+- 🚀 &nbsp; Docker | K8s
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WangYuLue.WangYuLue)
