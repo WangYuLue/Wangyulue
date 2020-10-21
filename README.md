@@ -6,7 +6,7 @@
 #### About Me
 
 - 🇨🇳 &nbsp; I’m live in ShangHai China
-- 😎 &nbsp; I'm coding Ecode [ecode](https://github.com/WangYuLue/ecode)
+- 😎 &nbsp; I'm coding [ecode](https://github.com/WangYuLue/ecode)
 - 👉 &nbsp; [Here](https://wangyulue.com/) is my personal website
 
 
