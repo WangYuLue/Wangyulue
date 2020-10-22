@@ -12,7 +12,7 @@
 
 #### Tech Stack
 
-- 💻 &nbsp; JavaScript | Node |Java | Python | Golang
+- 💻 &nbsp; JavaScript | Node | Java | Python | Golang
 - 🛢 &nbsp; MySQL | Redis | Elasticsearch
 - 🔧 &nbsp; VSCode | Eclipse | Git | Vim 
 - 🚀 &nbsp; Docker | K8s
