@@ -12,9 +12,10 @@
 
 #### Tech Stack
 
-- 💻 &nbsp; JavaScript | Node | Java | Python | Golang
-- 🛢 &nbsp; MySQL | Redis | Elasticsearch
-- 🔧 &nbsp; VSCode | Eclipse | Git | Vim 
-- 🚀 &nbsp; Docker | K8s
+- 🎯 &nbsp; JavaScript | TypeScript | Node | Python | Golang
+- 💻 &nbsp; React | Webpack | Rxjs | Electron | Express
+- 🛢 &nbsp; MySQL | Redis
+- 🔧 &nbsp; VSCode | Git | Vim | Zsh
+- 🚀 &nbsp; Shell | Docker | Nginx
 
 ![](https://visitor-badge.glitch.me/badge?page_id=WangYuLue.WangYuLue)
