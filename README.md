@@ -5,7 +5,6 @@
 
 #### About Me
 
-- 🇨🇳 &nbsp; I’m live in ShangHai China
 - 👉 &nbsp; [Here](https://wangyulue.com/) is my personal website
 
 
